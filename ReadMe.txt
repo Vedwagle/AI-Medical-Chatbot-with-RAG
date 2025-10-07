@@ -69,3 +69,4 @@ Open the provided local URL in your browser to chat with the model in real time.
 - Medibot delivers **context-aware medical answers** using the knowledge base.  
 - Vector database ensures **relevant and accurate information retrieval**.  
 - Streamlit UI allows **easy, real-time interaction** with the chatbot.
+
